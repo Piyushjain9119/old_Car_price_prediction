@@ -20,7 +20,7 @@ page_bg_img = """
 <style>
 
 [data-testid="stAppViewContainer"]{
-background-image :"car.jpg"
+background-image :url('https://www.hdcarwallpapers.com/walls/lamborghini_gallardo_spyder_adv1-wide.jpg');
 
 background-size :cover;
 }
