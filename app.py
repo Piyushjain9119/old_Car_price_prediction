@@ -20,7 +20,7 @@ page_bg_img = """
 <style>
 
 [data-testid="stAppViewContainer"]{
-background-image : url("https://img.freepik.com/free-photo/mini-coupe-high-speed-drive-road-with-front-lights_114579-5040.jpg?w=1060&t=st=1713300809~exp=1713301409~hmac=effb0a8cbd478b4aa775f7754b06ae4b4309a4d8ba6341d6f53e5d6efc010c8b");
+background-image : url("https://img.freepik.com/free-vector/car-led-lights-realistic-composition-with-dark-silhouette-automobile-with-dimmed-headlights-shadows-illustration_1284-28532.jpg?w=1060&t=st=1713367374~exp=1713367974~hmac=539a85bd832cdee2a234f45a106d22725f30936d56949279229ef4fbd3ad02aa");
 
 background-size :cover;
 }
