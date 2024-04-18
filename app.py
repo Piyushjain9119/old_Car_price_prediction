@@ -135,6 +135,6 @@ st.write(given_data)
 
 price = model.predict(given_data)
 st.header("Car Price",divider = 'rainbow')
-st.header(str((np.round(price)[0])*0.6)+"  lakh")#st.header("lac")
+st.header(str((np.round((np.abs(price)[0])*0.6)))+"  lakh")#st.header("lac")
 st.header(':rainbow[THE ABOVE VALUE IS IN LAKH, THANKS FOR USING] :sunglasses:')
 
